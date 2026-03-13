@@ -104,6 +104,17 @@ export const COLLECTIONS: Collection[] = [
     count: 30
   },
   {
+    id: 'seneca',
+    name: '塞内卡：斯多葛智慧',
+    nameEn: 'Seneca',
+    description: '古罗马斯多葛哲学家关于时间、愤怒、死亡与内心自由的实用哲学。',
+    category: CategoryId.PHILOSOPHY,
+    author: 'Seneca',
+    coverColor: 'bg-purple-700',
+    filePath: '/cards/philosophy/seneca.txt',
+    count: 50
+  },
+  {
     id: 'buddhism',
     name: '佛学智慧',
     nameEn: 'Buddhism',

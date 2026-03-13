@@ -163,7 +163,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ selectedCategory, onSelectCate
                 </p>
                 <div className="bg-white p-2 rounded-lg shadow-sm mb-3">
                    <img 
-                    src="https://gudong.s3.bitiful.net/asset/gongzhonghao.jpg" 
+                    src="https://blog.gudong.site/assets/profile/gongzhonghao.jpg" 
                     alt="咕咚同学" 
                     className="w-full rounded-md aspect-square object-cover"
                   />

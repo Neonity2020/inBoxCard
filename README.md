@@ -74,4 +74,4 @@
 ### 关注公众号
 关注公众号 **咕咚同学**，回复 **inbox** 加入用户交流微信群。
 
-![咕咚同学](https://gudong.s3.bitiful.net/asset/gongzhonghao.jpg)
+![咕咚同学](https://blog.gudong.site/assets/profile/gongzhonghao.jpg)
